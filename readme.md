@@ -4,7 +4,7 @@ Welcome to my Nudibranch search script! This is my attempt to help increase the 
 
 Personal use only, don't recommend unless you understand the script (esp the search interval part). 
 
-**Disclaimer:** Use this script at your own risk. I am not familiar with internet or VPN settings, and I do not endorse or encourage excessive searching or any activity that goes against Google's policies.
+**Disclaimer:** Please use this script at your own risk. I am not familiar with internet or VPN settings, and I do not endorse or encourage excessive searching, spamming or any activity that goes against Google's policies.
 
 ## Usage
 
@@ -15,4 +15,7 @@ Personal use only, don't recommend unless you understand the script (esp the sea
 
    ```bash
    python main.py --duration 60
+   ```
+   `--duration` is integer in minute, if not put in any time limit, the search will last for an hour.
+
 5. (Optional) You might also want to use a VPN client. 
