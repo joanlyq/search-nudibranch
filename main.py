@@ -24,11 +24,11 @@ def search_with_duration(total_search_time):
 
         # Make the request with a delay
         response = requests.get(search_url, headers=headers)
-        
-        # Process the response here...
 
-        # Introduce a random delay between requests (3 to 60 seconds)
-        time.sleep(random.uniform(3, 60))
+        # Introduce a random delay between requests (3 to 300 seconds)
+        # you can change this according to your need
+        # wouldn't recommend you to do lower thou
+        time.sleep(random.uniform(3, 300))
 
     print(f"Total search time of {total_search_time/60} minutes completed.")
 

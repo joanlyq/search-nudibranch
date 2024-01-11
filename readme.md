@@ -2,7 +2,7 @@
 
 Welcome to my Nudibranch search script! This is my attempt to help increase the search volume of nudibranches in our FB group. Shout out to Gary to provide such great community for nudibranch lovers. 
 
-Personal use only, don't recommend unless you understand the script. 
+Personal use only, don't recommend unless you understand the script (esp the search interval part). 
 
 **Disclaimer:** Use this script at your own risk. I am not familiar with internet or VPN settings, and I do not endorse or encourage excessive searching or any activity that goes against Google's policies.
 
