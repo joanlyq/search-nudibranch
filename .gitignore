@@ -1,1 +1,14 @@
 /.DS_Store
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
